@@ -184,4 +184,4 @@ Each problem shows the given network, the required subnetting task, and a fully 
 | Block size | 256 - (last non-255/non-0 octet of mask) |
 
 ## Author
-[Your Name] — Kiriri Women's University of Science and Technology, Dept. of Computer Science & IT
+[Janet wanjiru] — Kiriri Women's University of Science and Technology, Dept. of Computer Science & IT
